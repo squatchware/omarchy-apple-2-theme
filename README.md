@@ -11,7 +11,7 @@ machines that raised us, each with a squatch hiding somewhere in it.
 ## Install
 
 ```sh
-omarchy theme install https://github.com/squatchware/omarchy-apple-ii-theme
+omarchy theme install https://github.com/squatchware/omarchy-apple-2-theme
 ```
 
 ## What's in it
